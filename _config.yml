@@ -11,6 +11,11 @@ color:
     - '#F4EEA9'
     - '#F4F482'
 layout_spectrum: 0.40959361055865884
+author:
+  name: Giampiero Nadali
+  email: giampieronadali@mac.com
 name: Giampiero Nadali
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ed2336f-5977-4f5f-9fbb-7dd2e0620d74.png
 title: Digital Wine Marketer
 description: 'meet me, digitally'
