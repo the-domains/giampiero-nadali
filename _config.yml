@@ -1,18 +1,18 @@
-typography_spectrum: 0.42070607910864055
+typography_spectrum: 0.5500139873474836
 content_rating:
   adult: false
 color:
-  brandStrength: 0.2773666391149163
-  lightness: 0.8986813116353005
-  saturation: 0.031161586055532098
-  rhythmicContrast: 0.034045613603666425
+  brandStrength: 0.595920107094571
+  lightness: 0.5302842152304947
+  saturation: 0.9940248681232333
+  rhythmicContrast: 0.3004240868613124
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-layout_spectrum: 0.20008634822443128
+layout_spectrum: 0.14867907599546015
 author:
   name: Giampiero Nadali
   email: giampieronadali@mac.com
