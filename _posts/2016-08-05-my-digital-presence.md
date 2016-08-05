@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-05T15:15:58.889Z'
+datePublished: '2016-08-05T15:20:33.416Z'
 sourcePath: _posts/2016-08-05-my-digital-presence.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-05T15:15:44.767Z'
+dateModified: '2016-08-05T15:20:32.479Z'
 title: My Digital Presence
 publisher: {}
 description: >-
@@ -48,6 +48,10 @@ DWCC / Digital Wine Communication Conference (former European Wine Bloggers Conf
 * [EWBC Facebook group][12]
 * [EWBC 2012 on Bundlr][13]
 
+**Social Media**
+
+[Facebook][14] | [Twitter][15] | [Instagram][16] | [Google+ ][17] | [LinkedIn][18] | [Flickr][19] | [YouTube][20] | [Pinterest][21] |
+
 [0]: http://www.aristide.biz/
 [1]: http://www.fermentidigitali.com/
 [2]: http://www.terroiramarone.net/
@@ -62,3 +66,11 @@ DWCC / Digital Wine Communication Conference (former European Wine Bloggers Conf
 [11]: http://ewbc12.vrazon.com/
 [12]: http://www.facebook.com/groups/118872121585073/
 [13]: http://bundlr.com/b/ewbc-2012-izmir-turkey
+[14]: http://www.facebook.com/571611308
+[15]: https://twitter.com/aristideblog
+[16]: http://instagram.com/aristideblog
+[17]: https://plus.google.com/101239581078601153854
+[18]: http://www.linkedin.com/in/giampieronadali
+[19]: http://www.flickr.com/people/giampiero/
+[20]: http://www.youtube.com/channel/UCRfkGYxE5WjjOHrwap0gZzQ
+[21]: http://pinterest.com/gnadali
