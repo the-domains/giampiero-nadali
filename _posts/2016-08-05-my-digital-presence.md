@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-05T07:50:20.043Z'
+datePublished: '2016-08-05T15:15:58.889Z'
 sourcePath: _posts/2016-08-05-my-digital-presence.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-05T07:50:19.282Z'
+dateModified: '2016-08-05T15:15:44.767Z'
 title: My Digital Presence
 publisher: {}
 description: >-
@@ -39,27 +39,14 @@ Here, you may explore the many places where my person shows a digital version of
 
 **Other Links:**
 
-Lugana DOC Wine Bloggers Tour 2014
+DWCC / Digital Wine Communication Conference (former European Wine Bloggers Conference)
 
-* [The site - Blog, pictures and info][8]
-
-West Sicily Wine Bloggers Tour 2013
-
-* [The site - Blog, pictures and info][9]
-* [Social Media flow][10]
-
-Etna Wine Bloggers Tour 2012
-
-* [The site - Blog, pictures and info][11]
-
-Digital Wine Communication Conference (former European Wine Bloggers Conference)
-
-* [DWCC 2015][12]
-* [DWCC 2014][13]
-* [DWCC 2013][14]
-* [EWBC 2012][15]
-* [EWBC Facebook group][16]
-* [EWBC 2012 on Bundlr][17]
+* [DWCC 2015][8]
+* [DWCC 2014][9]
+* [DWCC 2013][10]
+* [EWBC 2012][11]
+* [EWBC Facebook group][12]
+* [EWBC 2012 on Bundlr][13]
 
 [0]: http://www.aristide.biz/
 [1]: http://www.fermentidigitali.com/
@@ -69,13 +56,9 @@ Digital Wine Communication Conference (former European Wine Bloggers Conference)
 [5]: https://delectable.com/@giampieronadali
 [6]: http://www.vivino.com/users/giampieronadali
 [7]: http://nadali.blogs.com/
-[8]: http://www.luganawinetour.com/
-[9]: http://westsicilywinetour.com/
-[10]: http://tagboard.com/WestSicilyWine
-[11]: http://etnawinetour.com/
-[12]: http://2015.dwcc.co/
-[13]: http://2014.dwcc.co/
-[14]: http://dwcc.co/
-[15]: http://ewbc12.vrazon.com/
-[16]: http://www.facebook.com/groups/118872121585073/
-[17]: http://bundlr.com/b/ewbc-2012-izmir-turkey
+[8]: http://2015.dwcc.co/
+[9]: http://2014.dwcc.co/
+[10]: http://dwcc.co/
+[11]: http://ewbc12.vrazon.com/
+[12]: http://www.facebook.com/groups/118872121585073/
+[13]: http://bundlr.com/b/ewbc-2012-izmir-turkey
