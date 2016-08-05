@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T15:52:35.481Z'
+datePublished: '2016-08-05T15:54:39.827Z'
 sourcePath: >-
   _posts/2016-08-05-does-organic-wine-taste-better-a-study-whose-findings-have.md
 isBasedOnUrl: >-
@@ -18,12 +18,12 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-05T15:52:19.735Z'
+dateModified: '2016-08-05T15:54:22.436Z'
 title: Jamie Goode
 app_links: []
 publisher:
-  url: 'http://www.winealign.com/awards/2014/04/26/jamie-goode-nwac-14-judge'
-  name: Wine Align
+  url: ''
+  name: ''
 description: '*** Jamie Goode has a different stance over a debated report.'
 inLanguage: en
 starred: false
