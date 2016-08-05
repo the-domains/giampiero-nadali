@@ -2,18 +2,17 @@
 description: >-
   Here, you may explore the many places where my person shows a digital version
   of his professional life and presence on social media.
-dateModified: '2016-08-05T07:41:04.059Z'
-datePublished: '2016-08-05T07:41:22.008Z'
+dateModified: '2016-08-05T07:43:28.887Z'
+datePublished: '2016-08-05T07:43:29.587Z'
 title: My Digital Presence
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-05-my-digital-presence.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: my-digital-presence/index.html
+_type: Blurb
 
 ---
 ![Transforming Grenache grapes in wine, Priorat, Spain](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a1e9f5a-99b1-4738-9cd4-41f55b364137.jpg)
