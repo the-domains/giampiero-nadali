@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-05T15:20:33.416Z'
+datePublished: '2016-08-05T16:31:21.253Z'
 sourcePath: _posts/2016-08-05-my-digital-presence.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-05T15:20:32.479Z'
+dateModified: '2016-08-05T16:31:17.094Z'
 title: My Digital Presence
 publisher: {}
 description: >-
@@ -50,7 +50,7 @@ DWCC / Digital Wine Communication Conference (former European Wine Bloggers Conf
 
 **Social Media**
 
-[Facebook][14] | [Twitter][15] | [Instagram][16] | [Google+ ][17] | [LinkedIn][18] | [Flickr][19] | [YouTube][20] | [Pinterest][21] |
+[Facebook][14] | [Twitter][15] | [Instagram][16] | [Google+][17] | [LinkedIn][18] | [Flickr][19] | [YouTube][20] | [Pinterest][21] | [About.me][22]
 
 [0]: http://www.aristide.biz/
 [1]: http://www.fermentidigitali.com/
@@ -74,3 +74,4 @@ DWCC / Digital Wine Communication Conference (former European Wine Bloggers Conf
 [19]: http://www.flickr.com/people/giampiero/
 [20]: http://www.youtube.com/channel/UCRfkGYxE5WjjOHrwap0gZzQ
 [21]: http://pinterest.com/gnadali
+[22]: http://about.me/giampieronadali
