@@ -1,15 +1,15 @@
 ---
+datePublished: '2016-08-05T07:50:20.043Z'
+sourcePath: _posts/2016-08-05-my-digital-presence.md
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-05T07:50:19.282Z'
+title: My Digital Presence
+publisher: {}
 description: >-
   Here, you may explore the many places where my person shows a digital version
   of his professional life and presence on social media.
-dateModified: '2016-08-05T07:43:28.887Z'
-datePublished: '2016-08-05T07:43:29.587Z'
-title: My Digital Presence
-author: []
-publisher: {}
-via: {}
-sourcePath: _posts/2016-08-05-my-digital-presence.md
-hasPage: true
 starred: false
 url: my-digital-presence/index.html
 _type: Blurb
