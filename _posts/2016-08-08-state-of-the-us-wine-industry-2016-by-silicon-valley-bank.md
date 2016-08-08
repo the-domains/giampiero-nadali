@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-08T15:31:06.096Z'
+datePublished: '2016-08-08T15:34:15.597Z'
 sourcePath: _posts/2016-08-08-state-of-the-us-wine-industry-2016-by-silicon-valley-bank.md
 isBasedOnUrl: >-
   https://www.dropbox.com/s/pdvn9hk7reee0lt/SVB%20state-of-industry-wine-report-2016.pdf?dl=0
@@ -8,7 +8,7 @@ related: []
 author:
   - {}
 via: {}
-dateModified: '2016-08-08T15:31:04.767Z'
+dateModified: '2016-08-08T15:34:14.728Z'
 title: ''
 app_links: []
 publisher:
