@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-08T18:35:14.403Z'
+datePublished: '2016-08-08T18:37:28.844Z'
 sourcePath: _posts/2016-08-05-my-digital-presence.md
 hasPage: true
 author:
   - name: © 2016 giampiero nadali | @aristideblog
 via: {}
-dateModified: '2016-08-08T18:35:13.528Z'
+dateModified: '2016-08-08T18:36:43.030Z'
 title: My Digital Presence
 publisher: {}
 description: >-
@@ -35,23 +35,29 @@ giampieronadali.com (here)
 
 ### Follow "My Wines" on:
 
-* [Delectable][5]
-* [Vivino][6]
+[Delectable][5]
+
+[Vivino][6]
 
 ### Archaeo-blogging:
 
-* [Liberation Technology][7]
+[Liberation Technology][7]
 
 ### Other Links:
 
 DWCC / Digital Wine Communication Conference (former European Wine Bloggers Conference)
 
-* [DWCC 2015][8]
-* [DWCC 2014][9]
-* [DWCC 2013][10]
-* [EWBC 2012][11]
-* [EWBC Facebook group][12]
-* [EWBC 2012 on Bundlr][13]
+[DWCC 2015][8]
+
+[DWCC 2014][9]
+
+[DWCC 2013][10]
+
+[EWBC 2012][11]
+
+[EWBC Facebook group][12]
+
+[EWBC 2012 on Bundlr][13]
 
 ### Social Media
 
