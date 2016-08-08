@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-08T18:42:31.278Z'
+datePublished: '2016-08-08T18:44:15.329Z'
 sourcePath: _posts/2016-08-05-my-digital-presence.md
 hasPage: true
 author:
   - name: © 2016 giampiero nadali | @aristideblog
 via: {}
-dateModified: '2016-08-08T18:42:25.213Z'
+dateModified: '2016-08-08T18:43:48.735Z'
 title: My Digital Presence
 publisher: {}
 description: >-
@@ -21,9 +21,11 @@ _type: Blurb
 
 Here, you may explore the many places where my person shows a digital version of his professional life and presence on social media.
 
-* giampieronadali.com (here)
-* [Aristide, the wine blog][0]
-* [Fermenti Digitali][1]
+giampieronadali.com (here)
+
+[Aristide, the wine blog][0]
+
+[Fermenti Digitali][1]
 
 [Terroir Amarone][2]
 
