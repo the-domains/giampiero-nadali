@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-08T18:29:40.311Z'
+datePublished: '2016-08-08T18:34:07.512Z'
 sourcePath: _posts/2016-08-05-my-digital-presence.md
 hasPage: true
-author: []
+author:
+  - name: © 2016 giampiero nadali | @aristideblog
 via: {}
-dateModified: '2016-08-08T18:29:33.438Z'
+dateModified: '2016-08-08T18:34:06.541Z'
 title: My Digital Presence
 publisher: {}
 description: >-
