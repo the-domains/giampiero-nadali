@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-08T18:28:42.268Z'
+datePublished: '2016-08-08T18:29:40.311Z'
 sourcePath: _posts/2016-08-05-my-digital-presence.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T18:28:41.348Z'
+dateModified: '2016-08-08T18:29:33.438Z'
 title: My Digital Presence
 publisher: {}
 description: >-
@@ -27,16 +27,16 @@ Here, you may explore the many places where my person shows a digital version of
 * [Manuale di Conversazione per Enoturisti][3]
 * [Proposta][4]
 
-**Follow "My Wines" on:**
+### Follow "My Wines" on:
 
 * [Delectable][5]
 * [Vivino][6]
 
-**Archaeo-blogging:**
+### Archaeo-blogging:
 
 * [Liberation Technology][7]
 
-**Other Links:**
+### Other Links:
 
 DWCC / Digital Wine Communication Conference (former European Wine Bloggers Conference)
 
@@ -47,7 +47,7 @@ DWCC / Digital Wine Communication Conference (former European Wine Bloggers Conf
 * [EWBC Facebook group][12]
 * [EWBC 2012 on Bundlr][13]
 
-**Social Media**
+### Social Media
 
 [Facebook][14] | [Twitter][15] | [Instagram][16] | [Google+][17] | [LinkedIn][18] | [Flickr][19] | [YouTube][20] | [Pinterest][21] | [Ello][22] | [About.me][23]
 
