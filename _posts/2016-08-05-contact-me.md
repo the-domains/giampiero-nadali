@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-05T11:29:41.099Z'
+datePublished: '2016-08-08T22:37:04.143Z'
 sourcePath: _posts/2016-08-05-contact-me.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-05T11:29:40.551Z'
+dateModified: '2016-08-08T22:36:55.514Z'
 title: Contact me
 publisher: {}
 description: >-
@@ -15,9 +15,8 @@ url: contact-me/index.html
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/091f80b7-62d1-49b9-bbf8-b06c96ae20c7.jpg)
-
 # Contact me
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/091f80b7-62d1-49b9-bbf8-b06c96ae20c7.jpg)
 
 You have many ways to contact me, through my digital presences or social media profiles.
 
