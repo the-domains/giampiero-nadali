@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-08T18:07:35.246Z'
+datePublished: '2016-08-08T18:28:42.268Z'
 sourcePath: _posts/2016-08-05-my-digital-presence.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T18:07:20.221Z'
+dateModified: '2016-08-08T18:28:41.348Z'
 title: My Digital Presence
 publisher: {}
 description: >-
@@ -15,9 +15,8 @@ url: my-digital-presence/index.html
 _type: Blurb
 
 ---
+# My Digital Presence
 ![Transforming Grenache grapes in wine, Priorat, Spain](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a1e9f5a-99b1-4738-9cd4-41f55b364137.jpg)
-
-## My Digital Presence
 
 Here, you may explore the many places where my person shows a digital version of his professional life and presence on social media.
 
