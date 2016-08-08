@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-08T18:40:36.357Z'
+datePublished: '2016-08-08T18:40:41.162Z'
 sourcePath: _posts/2016-08-05-my-digital-presence.md
 hasPage: true
 author:
   - name: © 2016 giampiero nadali | @aristideblog
 via: {}
-dateModified: '2016-08-08T18:40:23.292Z'
+dateModified: '2016-08-08T18:40:40.396Z'
 title: My Digital Presence
 publisher: {}
 description: >-
@@ -23,7 +23,7 @@ Here, you may explore the many places where my person shows a digital version of
 
 * giampieronadali.com (here)
 
-[Aristide, the wine blog][0]
+* [Aristide, the wine blog][0]
 
 [Fermenti Digitali][1]
 
