@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-08T22:42:27.638Z'
+datePublished: '2016-08-08T22:43:29.109Z'
 sourcePath: _posts/2016-08-05-contact-me.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T22:42:26.716Z'
+dateModified: '2016-08-08T22:43:25.572Z'
 title: Contact me
 publisher: {}
 description: >-
@@ -16,7 +16,7 @@ _type: Blurb
 
 ---
 # Contact me
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/091f80b7-62d1-49b9-bbf8-b06c96ae20c7.jpg)
+![Vineyards in Marsala, Sicily](https://the-grid-user-content.s3-us-west-2.amazonaws.com/091f80b7-62d1-49b9-bbf8-b06c96ae20c7.jpg)
 
 You have many ways to contact me, through my digital presences or social media profiles.
 
