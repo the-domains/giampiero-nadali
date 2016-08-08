@@ -1,13 +1,14 @@
 ---
-datePublished: '2016-08-08T14:33:27.431Z'
-author: []
+datePublished: '2016-08-08T14:37:59.290Z'
+sourcePath: _posts/2016-08-08-old-vat-in-rioja-spain.md
+author:
+  - name: © 2016 giampiero nadali | @aristideblog
 via: {}
-dateModified: '2016-08-08T14:33:26.101Z'
+dateModified: '2016-08-08T14:37:58.656Z'
 title: ''
 publisher: {}
 description: 'Old vat in Rioja, Spain'
 starred: false
-sourcePath: _posts/2016-08-08-old-vat-in-rioja-spain.md
 inFeed: true
 hasPage: true
 inNav: false
