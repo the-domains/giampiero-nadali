@@ -12,7 +12,7 @@ navigation:
   - id: 36050fa1-3e30-401e-b918-1edc4fbcf192
     name: Contact
     type: content
-layout_spectrum: 0.7052566
+layout_spectrum: 0.7025759171228856
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ed2336f-5977-4f5f-9fbb-7dd2e0620d74.png
 author:
@@ -33,16 +33,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  brandStrength: 0.7841051
-  lightness: 0.5609506
-  saturation: 0.0882353
-  rhythmicContrast: 0.1170213
+  brandStrength: 0.9339879413601011
+  lightness: 0.7421026872470975
+  saturation: 0.246873474214226
+  rhythmicContrast: 0.3053951235488057
   brandColors:
-    - '#DBD7D5'
-    - '#D6A37E'
-    - '#8F908F'
-    - '#6A4532'
-    - '#96674A'
-typography_spectrum: 0.4808511
+    - '#F8F9FC'
+    - '#224FAA'
+    - '#A62626'
+    - '#3D588F'
+    - '#C7CAD1'
+typography_spectrum: 0.6139193871058524
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/87370a32-3ffe-4b79-a54f-b91e1cb70598.jpg
