@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-08T10:49:10.276Z'
+datePublished: '2016-08-08T10:51:52.755Z'
 sourcePath: _posts/2016-08-05-evernotes-ceo-on-unlocking-the-potential-of-every-idea.md
 isBasedOnUrl: >-
   https://www.engadget.com/2016/07/29/evernotes-ceo-on-unlocking-the-potential-of-every-idea/
@@ -29,8 +29,8 @@ related:
     thumbnail_width: 640
 author: []
 via: {}
-dateModified: '2016-08-08T10:49:09.536Z'
-title: Evernote's CEO on 'unlocking the potential of every idea'
+dateModified: '2016-08-08T10:51:49.528Z'
+title: My take
 app_links:
   - url: >-
       com.aol.appspinner.engadget://www.engadget.com/2016/07/29/evernotes-ceo-on-unlocking-the-potential-of-every-idea/
@@ -54,8 +54,8 @@ publisher:
     https://s.blogsmithmedia.com/www.engadget.com/assets-h894a1dfbb9e04180b93db3f59c317535/images/favicon-160x160.png?h=1638b0a8bbe7effa8f85c3ecabb63620
   domain: www.engadget.com
 description: >-
-  *** Interesting interview at Evernote’s CEO - my best note taking app with
-  many more uses in everyday productivity…
+  Interesting interview at Evernote’s CEO - my best note taking app with many
+  more uses in everyday productivity…
 inLanguage: en
 starred: false
 inFeed: true
@@ -65,8 +65,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-\*\*\* Interesting interview at Evernote's CEO - my best note taking app with many more uses in everyday productivity...
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80d9bc8a9420e0087f2b110e7422db791c1fba7e.jpg" /><h1>Evernote's CEO on 'unlocking the potential of every idea'</h1><p>It's been a year since you joined Evernote. What's the progress been like, and where do you see the company headed? I'm tremendously pleased. I was pretty quiet when I showed up. I was focused on the core product, the team and the path to sustainability.</p></article>
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b4c43dae3ac861b980ce6710528474ca/noop.jpg?input=https%3A%2F%2Fs.aolcdn.com%2Fdims-shared%2Fdims3%2FGLOB%2Fcrop%2F1200x800%2B0%2B0%2Fresize%2F1600x1067!%2Fformat%2Fjpg%2Fquality%2F85%2Fhttps%3A%2F%2Fs.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fcdfbed35b795df974cb717f27d1dd044%2F202921026%2Fevernote.jpg" /><h1>Evernote's CEO on 'unlocking the potential of every idea'</h1><p>It's been a year since you joined Evernote. What's the progress been like, and where do you see the company headed? I'm tremendously pleased. I was pretty quiet when I showed up. I was focused on the core product, the team and the path to sustainability.</p></article>
+### My take
 
-\*\*\* Interesting interview at Evernote's CEO - my best note taking app with many more uses in everyday productivity...
+Interesting interview at Evernote's CEO - my best note taking app with many more uses in everyday productivity...
