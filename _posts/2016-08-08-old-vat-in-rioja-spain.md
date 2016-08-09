@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-09T08:19:08.302Z'
+datePublished: '2016-08-09T08:22:02.742Z'
 sourcePath: _posts/2016-08-08-old-vat-in-rioja-spain.md
 author:
   - name: © 2016 giampiero nadali | @aristideblog
 via: {}
-dateModified: '2016-08-09T08:19:03.099Z'
+dateModified: '2016-08-09T08:21:57.088Z'
 title: Welcome
 publisher: {}
 description: >-
