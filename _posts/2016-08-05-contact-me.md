@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-09T05:47:02.304Z'
+datePublished: '2016-08-09T05:48:03.702Z'
 sourcePath: _posts/2016-08-05-contact-me.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-09T05:46:14.365Z'
+dateModified: '2016-08-09T05:48:03.130Z'
 title: Contact me
 publisher: {}
 description: >-
@@ -27,3 +27,7 @@ Simply fill the fields here below. I'll try to reply to you as soon as possible.
 Thanks.
 
 ### Subscribe to my mailing list
+
+Please, [use this link][0].
+
+[0]: http://eepurl.com/caXriL
