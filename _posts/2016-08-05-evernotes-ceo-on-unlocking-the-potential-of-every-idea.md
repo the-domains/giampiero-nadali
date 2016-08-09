@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T08:45:27.050Z'
+datePublished: '2016-08-09T08:49:28.997Z'
 sourcePath: _posts/2016-08-05-evernotes-ceo-on-unlocking-the-potential-of-every-idea.md
 isBasedOnUrl: >-
   https://www.engadget.com/2016/07/29/evernotes-ceo-on-unlocking-the-potential-of-every-idea/
@@ -29,7 +29,7 @@ related:
     thumbnail_width: 640
 author: []
 via: {}
-dateModified: '2016-08-09T08:45:07.756Z'
+dateModified: '2016-08-09T08:49:28.352Z'
 title: Evernote's CEO on 'unlocking the potential of every idea'
 app_links:
   - url: >-
