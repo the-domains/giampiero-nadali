@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-08T10:59:27.226Z'
+datePublished: '2016-08-09T08:59:01.875Z'
 sourcePath: >-
   _posts/2016-08-05-does-organic-wine-taste-better-a-study-whose-findings-have.md
 isBasedOnUrl: >-
@@ -18,8 +18,10 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-08T10:59:25.458Z'
-title: My take
+dateModified: '2016-08-09T08:58:58.253Z'
+title: >-
+  Does organic wine taste better? A study whose findings have been widely
+  misinterpreted
 app_links: []
 publisher:
   url: 'http://www.wineanorak.com'
@@ -27,7 +29,7 @@ publisher:
   favicon: >-
     http://www.wineanorak.com:/wineblog/wp-content/themes/atahualpa.3.4.5/atahualpa/images/favicon/new-favicon.ico
   domain: www.wineanorak.com
-description: Jamie Goode has a different stance over a debated report…
+description: ☆ Jamie Goode has a different stance over a debated report…
 inLanguage: en
 starred: false
 inFeed: true
@@ -37,10 +39,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4a3ac99c46a762f55c27903ab59709c3c48eda5.jpg" /><h1>Does organic wine taste better? A study whose findings have been widely misinterpreted</h1><p>Are organic wines better than conventional ones? An interesting study from researchers at the University of California Los Angeles suggests that they might well be. However, the difference in point scores between eco-certified wines and conventional wines is actually much smaller than press reports on this study have stated, because they haven't read the paper carefully.</p></article>
+<article style=""><h1>Does organic wine taste better? A study whose findings have been widely misinterpreted</h1><p>Are organic wines better than conventional ones? An interesting study from researchers at the University of California Los Angeles suggests that they might well be. However, the difference in point scores between eco-certified wines and conventional wines is actually much smaller than press reports on this study have stated, because they haven't read the paper carefully.</p></article>
 
-### My take
-
-**[Jamie Goode][0]** has a different stance over a debated report...
+☆ **[Jamie Goode][0]** has a different stance over a debated report...
 
 [0]: http://www.wineanorak.com/
