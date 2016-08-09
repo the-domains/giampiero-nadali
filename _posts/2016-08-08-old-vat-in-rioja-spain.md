@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-09T08:16:03.922Z'
+datePublished: '2016-08-09T08:19:08.302Z'
 sourcePath: _posts/2016-08-08-old-vat-in-rioja-spain.md
 author:
   - name: © 2016 giampiero nadali | @aristideblog
 via: {}
-dateModified: '2016-08-09T08:16:03.305Z'
+dateModified: '2016-08-09T08:19:03.099Z'
 title: Welcome
 publisher: {}
 description: >-
@@ -29,8 +29,6 @@ I'm a proud beta-tester of [The Grid][0], this awesome platform based on Artific
 
 Enjoy reading and coming back.
 
-I'm a proud beta-tester of [The Grid][0], this awesome platform based on Artificial Intelligence algorithms and mutant web technology. With some grain of human intelligence, I'll try to collect and curate some interesting content about the wine industry and consumers, with some other topics related to technology and society.
-
-Enjoy reading and coming back.
+### This site is in beta-testing mode, please be patient.
 
 [0]: http://hppt//thegrid.io
