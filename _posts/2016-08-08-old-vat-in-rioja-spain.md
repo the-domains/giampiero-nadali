@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-09T09:09:41.729Z'
+datePublished: '2016-08-10T09:05:43.893Z'
 sourcePath: _posts/2016-08-08-old-vat-in-rioja-spain.md
 author:
   - name: © 2016 giampiero nadali | @aristideblog
 via: {}
-dateModified: '2016-08-09T09:09:41.268Z'
+dateModified: '2016-08-10T09:05:12.205Z'
 title: Welcome
 publisher: {}
 description: >-
@@ -25,7 +25,7 @@ _type: Article
 Time travels in divers paces with divers persons  
 _William Shakespeare, As You Like It_
 
-I'm a proud beta-tester of [The Grid][0], this awesome platform based on Artificial Intelligence algorithms and mutant web technology. With some grain of human intelligence, I'll try to collect and curate some interesting content about the wine industry and consumers, with some other topics related to technology design and society.
+I'm a proud beta-tester of [The Grid][0], this awesome platform based on Artificial Intelligence algorithms and mutant web technology. With some grain of human intelligence, I'll try to collect and curate some interesting content about the wine industry and consumers, with some other topics related to technology design marketing and society.
 
 Enjoy reading and coming back.
 
