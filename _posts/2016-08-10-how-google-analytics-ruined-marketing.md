@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-10T09:00:04.432Z'
+datePublished: '2016-08-10T11:01:35.897Z'
+sourcePath: _posts/2016-08-10-how-google-analytics-ruined-marketing.md
 isBasedOnUrl: >-
   https://techcrunch.com/2016/08/07/how-google-analytics-ruined-marketing/?ref=webdesignernews.com
 keywords:
@@ -19,7 +20,7 @@ author:
     url: 'https://techcrunch.com/contributor/samuel-scott/'
     avatar: {}
 via: {}
-dateModified: '2016-08-10T08:59:41.553Z'
+dateModified: '2016-08-10T11:01:30.864Z'
 title: How Google Analytics ruined marketing
 app_links:
   - path: >-
@@ -36,7 +37,6 @@ publisher:
 description: '☆ Samuel Scott for Tech Crunch / Crunch Network:'
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-10-how-google-analytics-ruined-marketing.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -44,11 +44,11 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dbd53b8b8fb559b5bdb9fb824e46d442/noop?input=https%3A%2F%2Ftctechcrunch2011.files.wordpress.com%2F2016%2F08%2Fshoppingcartkids.jpg%26h%3D400%26crop%3D1" /><h1>How Google Analytics ruined marketing</h1><p>Marketers in the high-tech world who use phrases such as "social media marketing," "Facebook marketing" and "content marketing" do not understand the basic difference between marketing strategies, marketing channels and marketing content. And Google Analytics is to blame.</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a73a4627-dcc8-49b6-837c-497c37c59e66.jpg)
 
 ☆ [Samuel Scott][0] for Tech Crunch / Crunch Network:
 
-> "Television" is a marketing channel, not a marketing strategy. If I choose to advertise on television, "advertising" is the strategy, the advertisement itself is the content and "television" is the channel over which I transmit the advertisement. In the same way, "Facebook marketing," "social media marketing" and "content marketing" are not "things." "Facebook" is a marketing channel. "Social media" is a collection of marketing channels. "Content" is a tactic, not a strategy. "Content" is produced in the execution of strategies such as advertising, SEO and publicity. 
+> "Television" is a marketing channel, not a marketing strategy. If I choose to advertise on television, "advertising" is the strategy, the advertisement itself is the content and "television" is the channel over which I transmit the advertisement. In the same way, "Facebook marketing," "social media marketing" and "content marketing" are not "things." "Facebook" is a marketing channel. "Social media" is a collection of marketing channels. "Content" is a tactic, not a strategy. "Content" is produced in the execution of strategies such as advertising, SEO and publicity.
 
 
 
