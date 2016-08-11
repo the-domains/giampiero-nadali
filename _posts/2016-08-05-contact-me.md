@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-11T16:50:50.854Z'
+datePublished: '2016-08-11T16:59:00.859Z'
 sourcePath: _posts/2016-08-05-contact-me.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-11T16:50:49.803Z'
+dateModified: '2016-08-11T16:58:56.943Z'
 title: Contact me
 publisher: {}
 description: >-
@@ -26,8 +26,13 @@ Simply fill the fields here below. I'll try to reply to you as soon as possible.
 
 Thanks.
 
-### Subscribe to my mailing list
+### Contact me through this form
 
 Please, [use this link][0].
 
+### Subscribe to my mailing list
+
+Please, [use this link][1].
+
 [0]: https://giampieronadali.typeform.com/to/pseE36
+[1]: http://eepurl.com/caXriL
