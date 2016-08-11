@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-09T05:48:25.418Z'
+datePublished: '2016-08-11T16:50:50.854Z'
 sourcePath: _posts/2016-08-05-contact-me.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-09T05:48:24.987Z'
+dateModified: '2016-08-11T16:50:49.803Z'
 title: Contact me
 publisher: {}
 description: >-
@@ -30,4 +30,4 @@ Thanks.
 
 Please, [use this link][0].
 
-[0]: http://eepurl.com/caXriL
+[0]: https://giampieronadali.typeform.com/to/pseE36
