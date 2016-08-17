@@ -1,12 +1,13 @@
 ---
-datePublished: '2016-08-17T18:31:46.090Z'
+datePublished: '2016-08-17T18:35:47.084Z'
 sourcePath: _posts/2016-08-14-vinitaly-international-survey-part-1-social-media-prefere.md
 author: []
 via: {}
-dateModified: '2016-08-17T18:31:31.633Z'
+dateModified: '2016-08-17T18:35:33.862Z'
 title: ''
 publisher:
   name: VInitaly International
+  url: 'http://www.vinitalyinternational.com/sites/default/files/Survey.pdf'
 description: >-
   Vinitaly International Survey (part 1): Social Media Preference of Wine
   Professionals in China - Benzinga http://nzzl.us/YPBhDNf
