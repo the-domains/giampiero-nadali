@@ -1,25 +1,37 @@
-description: digital wine marketer
-title: giampieronadali.com
+typography_spectrum: 0.6139193871058524
 content_rating:
   adult: false
-navigation:
-  - id: 2f3c56a8-665f-463f-b39a-ad13ee3a7524
-    name: About me
-    type: content
-  - id: 5a544fc8-4cae-4a7c-9a7f-4fe1f74aaa24
-    name: My Digital Presence
-    type: content
-  - id: 36050fa1-3e30-401e-b918-1edc4fbcf192
-    name: Contact
-    type: content
+color:
+  brandStrength: 0.9339879413601011
+  saturation: 0.246873474214226
+  brandColors:
+    - '#F8F9FC'
+    - '#224FAA'
+    - '#A62626'
+    - '#3D588F'
+    - '#C7CAD1'
+  lightness: 0.7421026872470975
+  rhythmicContrast: 0.3053951235488057
 layout_spectrum: 0.02782462
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ed2336f-5977-4f5f-9fbb-7dd2e0620d74.png
 author:
   url: ''
   name: Giampiero Nadali
   email: giampieronadali@mac.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/87370a32-3ffe-4b79-a54f-b91e1cb70598.jpg
 name: Giampiero Nadali
+navigation:
+  - name: About me
+    id: 2f3c56a8-665f-463f-b39a-ad13ee3a7524
+    type: content
+  - name: My Digital Presence
+    id: 5a544fc8-4cae-4a7c-9a7f-4fe1f74aaa24
+    type: content
+  - name: Contact
+    id: 36050fa1-3e30-401e-b918-1edc4fbcf192
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ed2336f-5977-4f5f-9fbb-7dd2e0620d74.png
 collections:
   - index:
       paginate: true
@@ -32,17 +44,5 @@ collections:
       format: rss
       path: /rss.xml
       number: 10
-color:
-  brandStrength: 0.9339879413601011
-  saturation: 0.246873474214226
-  brandColors:
-    - '#F8F9FC'
-    - '#224FAA'
-    - '#A62626'
-    - '#3D588F'
-    - '#C7CAD1'
-  lightness: 0.7421026872470975
-  rhythmicContrast: 0.3053951235488057
-typography_spectrum: 0.6139193871058524
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/87370a32-3ffe-4b79-a54f-b91e1cb70598.jpg
+title: giampieronadali.com (beta)
+description: digital wine marketer
