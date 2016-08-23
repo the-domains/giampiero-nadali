@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-10T09:05:43.893Z'
+datePublished: '2016-08-23T17:07:07.710Z'
 sourcePath: _posts/2016-08-08-old-vat-in-rioja-spain.md
 author:
   - name: © 2016 giampiero nadali | @aristideblog
 via: {}
-dateModified: '2016-08-10T09:05:12.205Z'
+dateModified: '2016-08-23T17:07:03.712Z'
 title: Welcome
 publisher: {}
 description: >-
-  Time travels in divers paces with divers persons William Shakespeare, As You
+  Time travels in divers paces with divers persons - William Shakespeare, As You
   Like It
 starred: true
 inFeed: true
@@ -22,13 +22,12 @@ _type: Article
 # Welcome
 ![Old vat in Rioja, Spain](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47c51e54-9943-402e-a289-d585430b0a65.jpg)
 
-Time travels in divers paces with divers persons  
-_William Shakespeare, As You Like It_
+Time travels in divers paces with divers persons - _William Shakespeare, As You Like It_
 
 I'm a proud beta-tester of [The Grid][0], this awesome platform based on Artificial Intelligence algorithms and mutant web technology. With some grain of human intelligence, I'll try to collect and curate some interesting content about the wine industry and consumers, with some other topics related to technology design marketing and society.
 
 Enjoy reading and coming back.
 
-### This site is in beta-testing mode, please be patient.
+### This site is in beta-testing mode, please be patient as The Grid continues to evolve. Thanks.
 
 [0]: http://hppt//thegrid.io
