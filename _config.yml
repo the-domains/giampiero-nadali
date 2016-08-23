@@ -1,18 +1,18 @@
-typography_spectrum: 0.6139193871058524
-content_rating:
-  adult: true
+layout_spectrum: 0.3087240580935031
+typography_spectrum: 0.4190635052509606
 color:
-  brandStrength: 0.9339879413601011
-  saturation: 0.246873474214226
+  brandStrength: 0.5947379600256681
+  saturation: 0.8561566015705466
   brandColors:
     - '#F8F9FC'
     - '#224FAA'
     - '#A62626'
     - '#3D588F'
     - '#C7CAD1'
-  lightness: 0.7421026872470975
-  rhythmicContrast: 0.3053951235488057
-layout_spectrum: 0.02782462
+  lightness: 0.035207371693104506
+  rhythmicContrast: 0.4914588450919837
+content_rating:
+  adult: true
 author:
   url: ''
   name: Giampiero Nadali
